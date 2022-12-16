@@ -438,7 +438,7 @@ body::-webkit-scrollbar-thumb {
 
 .skills-banner { display: none; }
 
-.skills { background-color: var(--black); }
+.skills { background-color: #0e0000; }
 
 .skills .section-title { color: var(--white); }
 
