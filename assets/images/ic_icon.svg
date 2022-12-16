@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="24px" height="24px" version="1.0" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 24 24"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+     <clipPath id="id0">
+      <path d="M7.33 12.17c0.4,-1.08 1.71,-4.01 1.89,-4.7 0.23,-0.9 -0.4,-1.88 -1.17,-2.79 -0.58,-0.68 -1.74,-0.85 -2.54,-0.12 -0.5,0.44 -1.8,3.94 -2.13,4.73 -0.85,2.07 -1.31,2.77 0.31,5.2 1.59,2.38 2.33,2.55 4.57,2.47 0.86,-0.03 4.59,0.14 5.17,-0.08 2.49,-0.91 0.45,-4.28 -0.99,-4.58 -0.57,-0.12 -1.9,-0.05 -2.56,-0.05 -0.46,0.01 -2.24,0.08 -2.55,-0.08z"/>
+     </clipPath>
+        <mask id="id1">
+          <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="16.76" y1="3.28" x2="11.24" y2="2.94">
+           <stop offset="0" stop-opacity="1" stop-color="white"/>
+           <stop offset="1" stop-opacity="0" stop-color="white"/>
+          </linearGradient>
+         <rect fill="url(#id2)" x="8.98" y="0.13" width="8.72" height="6.49"/>
+        </mask>
+        <mask id="id3">
+          <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="7.26" y1="14.82" x2="12.78" y2="15.15">
+           <stop offset="0" stop-opacity="1" stop-color="white"/>
+           <stop offset="1" stop-opacity="0" stop-color="white"/>
+          </linearGradient>
+         <rect fill="url(#id4)" x="6.32" y="11.48" width="8.73" height="6.49"/>
+        </mask>
+     <clipPath id="id5">
+      <path d="M16.69 11.81c-0.27,0.67 -0.63,1.51 -0.95,2.3l-0.96 2.39c-0.33,1.36 1.78,4.67 3.72,2.92 0.5,-0.46 1.78,-3.92 2.12,-4.74 0.85,-2.04 1.31,-2.77 -0.31,-5.19 -0.63,-0.95 -1.1,-1.73 -2.05,-2.16 -0.83,-0.38 -1.58,-0.34 -2.51,-0.31 -0.9,0.02 -4.53,-0.15 -5.18,0.07 -2.46,0.85 -0.51,4.3 0.99,4.59 0.79,0.16 4.47,-0.13 5.13,0.13z"/>
+     </clipPath>
+        <mask id="id6">
+          <linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="16.76" y1="3.28" x2="11.24" y2="2.94">
+           <stop offset="0" stop-opacity="1" stop-color="white"/>
+           <stop offset="1" stop-opacity="0" stop-color="white"/>
+          </linearGradient>
+         <rect fill="url(#id7)" x="8.98" y="0.13" width="8.72" height="6.49"/>
+        </mask>
+        <mask id="id8">
+          <linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="7.26" y1="14.82" x2="12.78" y2="15.15">
+           <stop offset="0" stop-opacity="1" stop-color="white"/>
+           <stop offset="1" stop-opacity="0" stop-color="white"/>
+          </linearGradient>
+         <rect fill="url(#id9)" x="6.32" y="11.48" width="8.73" height="6.49"/>
+        </mask>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2150394724752">
+   <rect fill="#24364D" width="24" height="24" rx="4.11" ry="4.11"/>
+   <g>
+    <path fill="#DB3D3D" d="M7.33 12.17c0.4,-1.08 1.71,-4.01 1.89,-4.7 0.23,-0.9 -0.4,-1.88 -1.17,-2.79 -0.58,-0.68 -1.74,-0.85 -2.54,-0.12 -0.5,0.44 -1.8,3.94 -2.13,4.73 -0.85,2.07 -1.31,2.77 0.31,5.2 1.59,2.38 2.33,2.55 4.57,2.47 0.86,-0.03 4.59,0.14 5.17,-0.08 2.49,-0.91 0.45,-4.28 -0.99,-4.58 -0.57,-0.12 -1.9,-0.05 -2.56,-0.05 -0.46,0.01 -2.24,0.08 -2.55,-0.08z"/>
+    <g clip-path="url(#id0)">
+     <g>
+      <g>
+       <path id="1" fill="#BF3131" mask="url(#id1)" d="M10.6 6.57l-1.57 -3.44 0.6 -2.95 6.39 0.99c2.27,0.82 1.85,2.65 0.67,4.76l-6.09 0.64z"/>
+       <path fill="#BF3131" mask="url(#id3)" d="M13.43 11.53l1.57 3.43 -0.61 2.96 -6.38 -0.99c-2.27,-0.83 -1.85,-2.66 -0.68,-4.76l6.1 -0.64z"/>
+      </g>
+     </g>
+    </g>
+    <path fill="none" d="M7.33 12.17c0.4,-1.08 1.71,-4.01 1.89,-4.7 0.23,-0.9 -0.4,-1.88 -1.17,-2.79 -0.58,-0.68 -1.74,-0.85 -2.54,-0.12 -0.5,0.44 -1.8,3.94 -2.13,4.73 -0.85,2.07 -1.31,2.77 0.31,5.2 1.59,2.38 2.33,2.55 4.57,2.47 0.86,-0.03 4.59,0.14 5.17,-0.08 2.49,-0.91 0.45,-4.28 -0.99,-4.58 -0.57,-0.12 -1.9,-0.05 -2.56,-0.05 -0.46,0.01 -2.24,0.08 -2.55,-0.08z"/>
+    <path fill="#DB3D3D" d="M16.69 11.81c-0.27,0.67 -0.63,1.51 -0.95,2.3l-0.96 2.39c-0.33,1.36 1.78,4.67 3.72,2.92 0.5,-0.46 1.78,-3.92 2.12,-4.74 0.85,-2.04 1.31,-2.77 -0.31,-5.19 -0.63,-0.95 -1.1,-1.73 -2.05,-2.16 -0.83,-0.38 -1.58,-0.34 -2.51,-0.31 -0.9,0.02 -4.53,-0.15 -5.18,0.07 -2.46,0.85 -0.51,4.3 0.99,4.59 0.79,0.16 4.47,-0.13 5.13,0.13z"/>
+    <g clip-path="url(#id5)">
+     <g>
+      <g>
+       <path id="1" fill="#BF3131" mask="url(#id6)" d="M10.6 6.57l-1.57 -3.44 0.6 -2.95 6.39 0.99c2.27,0.82 1.85,2.65 0.67,4.76l-6.09 0.64z"/>
+       <path fill="#BF3131" mask="url(#id8)" d="M13.43 11.53l1.57 3.43 -0.61 2.96 -6.38 -0.99c-2.27,-0.83 -1.85,-2.66 -0.68,-4.76l6.1 -0.64z"/>
+      </g>
+     </g>
+    </g>
+    <path fill="none" d="M16.69 11.81c-0.27,0.67 -0.63,1.51 -0.95,2.3l-0.96 2.39c-0.33,1.36 1.78,4.67 3.72,2.92 0.5,-0.46 1.78,-3.92 2.12,-4.74 0.85,-2.04 1.31,-2.77 -0.31,-5.19 -0.63,-0.95 -1.1,-1.73 -2.05,-2.16 -0.83,-0.38 -1.58,-0.34 -2.51,-0.31 -0.9,0.02 -4.53,-0.15 -5.18,0.07 -2.46,0.85 -0.51,4.3 0.99,4.59 0.79,0.16 4.47,-0.13 5.13,0.13z"/>
+   </g>
+  </g>
+ </g>
+</svg>
